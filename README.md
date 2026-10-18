@@ -94,4 +94,4 @@ database/      schema.sql
 
 ## Developer
 Shaurya Saxena
-Aspiring Data Scientist and Web Developer
+- Aspiring Data Scientist and Web Developer
