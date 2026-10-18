@@ -95,3 +95,6 @@ database/      schema.sql
 ## Developer
 Shaurya Saxena
 - Aspiring Data Scientist and Web Developer
+- <img width="1917" height="1197" alt="image" src="https://github.com/user-attachments/assets/fd59d55d-e660-40bb-9bf2-c6e969ea89e8" />
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/30b39542-f621-4d06-9640-5f77733b7119" />
+<img width="1916" height="1198" alt="image" src="https://github.com/user-attachments/assets/259db840-1dad-44ca-9116-c42195d0d4a5" />
