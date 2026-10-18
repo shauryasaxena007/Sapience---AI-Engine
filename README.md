@@ -1,4 +1,4 @@
-# NoteWise: AI search that saves to your OneNote
+# Sapience: AI search that saves to your OneNote
 
 Ask a question, get a web-grounded answer with numbered sources, and save it into your real Microsoft OneNote through the Microsoft Graph API.
 
