@@ -43,7 +43,7 @@ Open http://localhost:5173, create an account, and ask a question.
 
 | Name | Purpose |
 |---|---|
-| DATABASE_URL | PostgreSQL connection string |
+| DATABASE_URL | MySQL connection string |
 | JWT_SECRET | Random 48+ byte string for signing access tokens |
 | TOKEN_ENC_KEY | 64 hex characters; encrypts Microsoft tokens (AES-256-GCM) |
 | ANTHROPIC_API_KEY, AI_MODEL | AI provider key and model name your account supports |
@@ -91,3 +91,7 @@ database/      schema.sql
 - The follow-up and title generation use extra model calls (small cost).
 - Uploaded files are stored on local disk; use object storage when deploying to a host with an ephemeral filesystem.
 - Chat context sends the last 12 messages; there is no long-term summarization yet.
+
+## Developer
+Shaurya Saxena
+Aspiring Data Scientist and Web Developer
