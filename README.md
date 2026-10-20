@@ -18,7 +18,7 @@ Ask a question, get a web-grounded answer with numbered sources, and save it int
 
 ## Setup
 
-Requirements: Node 20+, PostgreSQL 14+.
+Requirements: Node 20+, MySQL 14+.
 
 ```bash
 # 1. database
